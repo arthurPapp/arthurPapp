@@ -1,7 +1,7 @@
 ### Olá eu sou o Arthur Papp
 
-- 🔭 Hoje trabalho com Java desenvolvimento BackEnd
-- 🌱 Estudando node.js, integrações continuas, AWS, e tecnologias FrontEnd
+- 🔭 Hoje trabalho com Java 
+- 🌱 Estudando linguagens FrontEnd
 
 <div align="center">
   <a href="https://github.com/arthurPapp">
