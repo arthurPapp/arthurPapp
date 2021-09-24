@@ -20,6 +20,8 @@
 </div>
   
   ##
-<div>
-   ![Snake animation](https://github.com/arthurPapp/arthurPapp/blob/output/github-contribution-grid-snake.svg)
- </div>
+<div> 
+ 
+  ![Snake animation](https://github.com/arthurPapp/arthurPapp/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
